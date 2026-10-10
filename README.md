@@ -22,3 +22,7 @@ The portfolio uses `Naiju-CV.pdf` and `naiju.jpg`, so keep those files in the re
 ## Project screenshots
 
 The project cards currently use built-in visual mockups rather than claiming to be photographs of specific installations. Replace each `.project-visual` block with your actual project screenshots when available.
+
+
+### Theme switch
+The navigation includes a dark/light theme switch. The selected theme is remembered in the visitor’s browser using local storage.
